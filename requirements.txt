@@ -1,0 +1,8 @@
+streamlit>=1.40,<2
+torch>=2.2
+transformers>=4.47,<6
+pandas>=2.0
+numpy>=1.26
+matplotlib>=3.8
+safetensors>=0.4
+huggingface-hub>=0.25
